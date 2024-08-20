@@ -21,7 +21,7 @@ my.project.value="localuser"
 
 # OR
 
-# jenkins.cong
+# jenkins.conf
 my.project.value="jenkinsuser"
 ```
  
